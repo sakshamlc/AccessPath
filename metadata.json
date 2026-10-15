@@ -1,0 +1,6 @@
+{
+  "name": "AccessPath - Accessible Indoor Navigation & Audit Simulator",
+  "description": "Deterministic accessible route planning, facility audit management, and improvement simulation for step-free and wheelchair navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
