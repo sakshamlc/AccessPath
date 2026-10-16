@@ -178,7 +178,6 @@ Please avoid including personal or sensitive information in public issues.
 | Field | Details |
 |---|---|
 | **Project** | AccessPath |
-| **Challenge** | Tata Young Social Innovator Challenge |
 | **Problem focus** | Making public spaces more usable for people with disabilities |
 | **Approach** | Connected journey evaluation and improvement simulation |
 | **Current stage** | Prototype using sample data |
